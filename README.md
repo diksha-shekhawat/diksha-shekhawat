@@ -98,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/diksha-shekhawat?theme=dark&font=Nunito&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/diksha_shekhawat?theme=dark&font=Nunito&ext=heatmap"/>
 
 </div>
 
