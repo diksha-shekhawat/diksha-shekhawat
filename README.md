@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Diksha Shekhawat
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Problem+Solver;DSA+Enthusiast;Building+Scalable+Applications;Open+Source+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack;Problem+Solving;DSA;Scalable+Applications;Open+Source" alt="Typing SVG" />
 
 <br/>
 
@@ -14,10 +14,10 @@
 
 # 💫 About Me
 
-💻 B.Tech CSE Student passionate about **Full-Stack Development** and **Software Engineering**  
-🚀 Skilled in **React.js, Node.js, MongoDB, JavaScript, and Java**  
+💻 B.Tech CSE Student learning **Full-Stack Development** and **Software Engineering**  
+🚀 Skilling Up in **React.js, Node.js, MongoDB, JavaScript, and Java**  
 🧠 Practicing **Data Structures & Algorithms** and improving problem-solving skills  
-⚡ Focused on **building real-world projects and scalable applications**  
+⚡ **Building real-world projects and scalable applications**  
 🌱 Currently exploring **Backend Development, System Design & Open Source**
 
 ---
