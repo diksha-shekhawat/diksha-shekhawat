@@ -94,7 +94,8 @@
 
 ---
 
-# 💡 LeetCode Stats
+# 💡 Problem Solving Stats
+<img src="https://codolio.com/profile/dikshashekhawat/card"/>
 
 <div align="center">
 
