@@ -95,13 +95,7 @@
 ---
 
 # 💡 Problem Solving Stats
-<h2 align="center">Coding Profiles</h2>
 
-<p align="center">
-  <a href="https://codolio.com/profile/dikshashekhawat">
-    <img src="https://codolio.com/profile/dikshashekhawat/card" alt="Codolio Card" />
-  </a>
-</p>
 <div align="center">
 
 <img src="https://leetcard.jacoblin.cool/diksha_shekhawat?theme=dark&font=Nunito&ext=heatmap"/>
