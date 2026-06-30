@@ -52,17 +52,7 @@
 
 ---
 
-# 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=diksha-shekhawat&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diksha-shekhawat&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
@@ -72,15 +62,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=diksha-shekhawat&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
