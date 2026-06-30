@@ -82,6 +82,17 @@
 
 </div>
 
+---
+
+## 🏅 My LeetCode Badges
+
+<div align="center">
+
+<img src="https://assets.leetcode.com/static_assets/marketing/6.gif" height="90" alt="6 Days Badge"/>
+<img src="https://assets.leetcode.com/static_assets/others/50.gif" height="90" alt="50 Problems Badge"/>
+
+</div>
+
 # 🚀 Featured Skills
 
 ```txt
