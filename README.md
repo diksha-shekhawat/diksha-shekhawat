@@ -67,9 +67,7 @@
 # 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=diksha-shekhawat&theme=tokyonight&hide_border=true&border_radius=15"/>
-
+  <img src="https://streak-stats.demolab.com?user=diksha-shekhawat&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
 ---
