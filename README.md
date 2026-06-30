@@ -102,8 +102,6 @@
 
 </div>
 
----
-
 # 🚀 Featured Skills
 
 ```txt
