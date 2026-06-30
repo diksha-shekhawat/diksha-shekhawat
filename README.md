@@ -34,8 +34,8 @@
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://github.com/diksha-shekhawat" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://codolio.com/profile/dikshashekhawat" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-F57C00?style=for-the-badge"/>
 </a>
 
 </p>
