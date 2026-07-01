@@ -38,6 +38,10 @@
   <img src="https://img.shields.io/badge/Codolio-F57C00?style=for-the-badge"/>
 </a>
 
+<a href="https://dikshashekhawat.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 ---
